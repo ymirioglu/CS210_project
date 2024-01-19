@@ -1,0 +1,109 @@
+Watched Date,Film Name,Film Year,My Rating,General Rating,Director,Genres,Month
+2023-12-25,In Bruges,2008,,4.1,Martin McDonagh,"['Drama', 'Comedy', 'Crime']",2023-12
+2023-12-25,The Nightmare Before Christmas,1993,3.5,3.9,Henry Selick,"['Family', 'Animation', 'Fantasy']",2023-12
+2023-12-16,The Matrix,1999,5.0,4.2,Lilly Wachowski,"['Science Fiction', 'Action']",2023-12
+2023-12-11,The Hunger Games,2012,,3.6,Gary Ross,"['Fantasy', 'Science Fiction', 'Adventure']",2023-12
+2023-12-10,The Hunger Games: The Ballad of Songbirds & Snakes,2023,3.5,3.6,Francis Lawrence,"['Science Fiction', 'Drama', 'Action']",2023-12
+2023-11-26,Ran,1985,4.0,4.5,Akira Kurosawa,"['Drama', 'History', 'Action']",2023-11
+2023-11-20,Close,2022,3.5,4.1,Lukas Dhont,['Drama'],2023-11
+2023-11-19,Phantom Thread,2017,4.0,4.1,Paul Thomas Anderson,"['Drama', 'Romance']",2023-11
+2023-11-10,The Killer,2023,3.0,3.4,David Fincher,"['Thriller', 'Crime']",2023-11
+2023-11-01,WALL·E,2008,4.0,4.2,Andrew Stanton,"['Animation', 'Science Fiction', 'Family']",2023-11
+2023-10-28,Killers of the Flower Moon,2023,3.5,4.2,Martin Scorsese,"['History', 'Crime', 'Drama']",2023-10
+2023-10-17,Talk to Me,2022,3.0,3.6,Michael Philippou,"['Horror', 'Thriller']",2023-10
+2023-10-08,Snatch,2000,3.5,4.0,Guy Ritchie,"['Comedy', 'Crime']",2023-10
+2023-10-05,Casino,1995,3.5,4.2,Martin Scorsese,"['Crime', 'Drama', 'History']",2023-10
+2023-10-01,The Wonderful Story of Henry Sugar,2023,3.5,3.9,Wes Anderson,"['Drama', 'Fantasy', 'Comedy', 'Adventure']",2023-10
+2023-10-01,What We Do in the Shadows,2014,3.5,4.1,Taika Waititi,"['Horror', 'Comedy']",2023-10
+2023-09-29,About Dry Grasses,2023,4.0,3.9,Nuri Bilge Ceylan,['Drama'],2023-09
+2023-09-29,10 Things I Hate About You,1999,3.5,4.0,Gil Junger,"['Comedy', 'Romance', 'Drama']",2023-09
+2023-09-16,The Godfather: Part II,1974,4.5,4.6,Francis Ford Coppola,"['Crime', 'Drama']",2023-09
+2023-09-10,Ida,2013,2.5,4.0,Paweł Pawlikowski,['Drama'],2023-09
+2023-09-09,The Godfather,1972,4.5,4.6,Francis Ford Coppola,"['Crime', 'Drama']",2023-09
+2023-09-05,Punch-Drunk Love,2002,3.0,4.0,Paul Thomas Anderson,"['Drama', 'Romance', 'Comedy']",2023-09
+2023-08-17,Zodiac,2007,4.0,4.0,David Fincher,"['Drama', 'Crime', 'Thriller', 'Mystery']",2023-08
+2023-08-14,Another Round,2020,3.5,4.1,Thomas Vinterberg,"['Drama', 'Comedy']",2023-08
+2023-08-10,Licorice Pizza,2021,3.0,3.6,Paul Thomas Anderson,"['Romance', 'Comedy', 'Drama']",2023-08
+2023-08-07,The Favourite,2018,3.5,4.1,Yorgos Lanthimos,"['Thriller', 'Drama', 'Comedy']",2023-08
+2023-07-28,Barbie,2023,3.5,3.9,Greta Gerwig,"['Comedy', 'Fantasy', 'Adventure']",2023-07
+2023-07-26,Oppenheimer,2023,3.5,4.3,Christopher Nolan,"['History', 'Drama']",2023-07
+2023-07-23,Hereditary,2018,4.0,4.0,Ari Aster,"['Thriller', 'Horror', 'Mystery']",2023-07
+2023-07-16,Cici,2022,3.5,3.4,Berkun Oya,['Drama'],2023-07
+2023-07-12,All Quiet on the Western Front,2022,4.0,4.0,Edward Berger,"['Drama', 'War']",2023-07
+2023-06-24,Midsommar,2019,4.0,3.8,Ari Aster,"['Mystery', 'Drama', 'Horror']",2023-06
+2023-06-12,Predestination,2014,3.0,3.6,Michael Spierig,"['Science Fiction', 'Thriller']",2023-06
+2023-06-11,Pride & Prejudice,2005,4.0,4.1,Joe Wright,"['Drama', 'Romance']",2023-06
+2023-05-24,Her,2013,3.5,4.0,Spike Jonze,"['Science Fiction', 'Drama', 'Romance']",2023-05
+2023-05-22,Girl with a Pearl Earring,2003,3.0,3.2,Peter Webber,"['Romance', 'Drama']",2023-05
+2023-05-21,Destiny,2006,3.5,3.8,Zeki Demirkubuz,['Drama'],2023-05
+2023-05-19,Inside,2012,3.5,3.6,Zeki Demirkubuz,['Drama'],2023-05
+2023-04-15,Disco Boy,2023,,3.4,Giacomo Abbruzzese,"['Drama', 'War']",2023-04
+2023-04-15,Killer Joe,2011,3.0,,William Friedkin,"['Crime', 'Thriller', 'Comedy', 'Drama']",2023-04
+2023-04-12,Man and Dog,2022,2.5,,Stefan Constantinescu,['Drama'],2023-04
+2023-04-03,Happy Together,1997,2.5,4.2,Wong Kar-wai,"['Romance', 'Drama']",2023-04
+2023-03-30,Irreversible,2002,4.0,3.8,Gaspar Noé,"['Crime', 'Drama', 'Thriller']",2023-03
+2023-03-24,John Wick: Chapter 2,2017,3.0,3.7,Chad Stahelski,"['Crime', 'Action', 'Thriller']",2023-03
+2023-03-23,John Wick,2014,3.0,3.8,Chad Stahelski,"['Action', 'Thriller']",2023-03
+2023-03-21,Hamilton,2020,3.5,4.2,Thomas Kail,"['History', 'Drama']",2023-03
+2023-03-16,Triangle of Sadness,2022,3.5,3.7,Ruben Östlund,"['Drama', 'Comedy']",2023-03
+2023-03-10,Ex Machina,2015,4.0,4.0,Alex Garland,"['Science Fiction', 'Drama']",2023-03
+2023-03-08,Perfume: The Story of a Murderer,2006,3.5,3.6,Tom Tykwer,"['Drama', 'Crime', 'Fantasy']",2023-03
+2023-03-06,The Menu,2022,3.5,3.5,Mark Mylod,"['Comedy', 'Thriller', 'Horror']",2023-03
+2023-02-28,Soul,2020,3.5,3.9,Pete Docter,"['Family', 'Drama', 'Animation', 'Comedy', 'Fantasy']",2023-02
+2023-02-26,Mary and Max,2009,4.5,4.2,Adam Elliot,"['Animation', 'Comedy', 'Drama']",2023-02
+2023-02-26,Amadeus,1984,3.5,4.3,Miloš Forman,"['History', 'Drama', 'Music']",2023-02
+2023-02-21,WHAT DID JACK DO?,2017,,3.3,David Lynch,"['Crime', 'Comedy', 'Mystery']",2023-02
+2023-02-20,Lady Bird,2017,3.5,3.9,Greta Gerwig,"['Comedy', 'Drama']",2023-02
+2023-02-04,The Fabelmans,2022,3.5,4.0,Steven Spielberg,['Drama'],2023-02
+2023-02-03,Taxi Driver,1976,4.5,4.2,Martin Scorsese,"['Drama', 'Crime']",2023-02
+2023-02-02,Little Women,2019,4.0,4.1,Greta Gerwig,"['Romance', 'Drama']",2023-02
+2023-01-30,Puss in Boots: The Last Wish,2022,3.0,4.2,Joel Crawford,"['Animation', 'Family', 'Fantasy', 'Action', 'Comedy', 'Adventure']",2023-01
+2023-01-24,Babylon,2022,4.0,3.8,Damien Chazelle,"['Comedy', 'Drama']",2023-01
+2023-01-20,Knives Out,2019,4.0,4.0,Rian Johnson,"['Mystery', 'Comedy', 'Crime']",2023-01
+2023-01-20,In Bruges,2008,4.0,4.1,Martin McDonagh,"['Drama', 'Comedy', 'Crime']",2023-01
+2023-01-18,The Pale Blue Eye,2022,3.0,3.0,Scott Cooper,"['Mystery', 'Thriller', 'Horror', 'Crime']",2023-01
+2022-12-21,Corsage,2022,3.0,3.5,Marie Kreutzer,"['Drama', 'History']",2022-12
+2022-12-14,The Banshees of Inisherin,2022,4.0,4.1,Martin McDonagh,"['Comedy', 'Drama']",2022-12
+2022-12-10,Decision to Leave,2022,3.5,4.0,Park Chan-wook,"['Mystery', 'Romance', 'Thriller']",2022-12
+2022-12-05,Koyaanisqatsi,1982,,4.3,Godfrey Reggio,['Documentary'],2022-12
+2022-12-04,There Will Be Blood,2007,4.5,4.5,Paul Thomas Anderson,['Drama'],2022-12
+2022-12-02,See How They Run,2022,2.5,3.2,Tom George,"['Thriller', 'Comedy', 'Mystery']",2022-12
+2022-11-30,American Psycho,2000,4.0,3.9,Mary Harron,"['Crime', 'Thriller', 'Horror', 'Drama']",2022-11
+2022-11-29,Over the Garden Wall,2014,4.0,4.6,Nate Cash,"['Animation', 'Mystery', 'Family', 'Comedy']",2022-11
+2022-11-21,Tully,2018,3.0,3.6,Jason Reitman,"['Comedy', 'Drama']",2022-11
+2022-11-20,The Menu,2022,4.0,3.5,Mark Mylod,"['Comedy', 'Thriller', 'Horror']",2022-11
+2022-11-09,Aftersun,2022,4.0,4.2,Charlotte Wells,['Drama'],2022-11
+2022-11-08,The Trial of the Chicago 7,2020,2.5,3.7,Aaron Sorkin,"['History', 'Drama']",2022-11
+2022-11-06,Lot 36,2022,3.5,2.9,Guillermo Navarro,['Horror'],2022-11
+2022-11-02,Barbarian,2022,4.0,3.5,Zach Cregger,"['Mystery', 'Thriller', 'Horror']",2022-11
+2022-11-02,Halloween,1978,3.5,3.8,John Carpenter,"['Horror', 'Thriller']",2022-11
+2022-10-30,Mandy,2018,3.0,3.6,Panos Cosmatos,"['Horror', 'Fantasy', 'Action']",2022-10
+2022-10-29,Ratatouille,2007,4.0,4.2,Brad Bird,"['Animation', 'Family', 'Comedy', 'Fantasy']",2022-10
+2022-10-28,Pickpocket,1959,3.5,3.9,Robert Bresson,"['Drama', 'Crime']",2022-10
+2022-10-24,Captain Fantastic,2016,3.5,3.9,Matt Ross,"['Drama', 'Adventure']",2022-10
+2022-10-22,Gattaca,1997,4.5,3.8,Andrew Niccol,"['Thriller', 'Romance', 'Mystery', 'Science Fiction']",2022-10
+2022-10-19,Eyes Wide Shut,1999,4.0,4.0,Stanley Kubrick,"['Thriller', 'Drama', 'Mystery']",2022-10
+2022-10-12,"Lock, Stock and Two Smoking Barrels",1998,4.0,3.9,Guy Ritchie,"['Comedy', 'Crime']",2022-10
+2022-10-07,Enter the Void,2009,3.0,3.8,Gaspar Noé,"['Drama', 'Fantasy']",2022-10
+2022-09-11,The Fountainhead,1949,3.5,3.4,King Vidor,['Drama'],2022-09
+2022-09-07,Get Out,2017,4.0,4.2,Jordan Peele,"['Horror', 'Mystery', 'Thriller']",2022-09
+2022-09-07,Split,2016,3.5,3.4,M. Night Shyamalan,"['Thriller', 'Horror']",2022-09
+2022-08-28,Everything Everywhere All at Once,2022,3.0,4.3,Daniel Scheinert,"['Science Fiction', 'Action', 'Adventure']",2022-08
+2022-08-26,Bullet Train,2022,3.5,3.5,David Leitch,"['Thriller', 'Comedy', 'Action']",2022-08
+2022-07-29,The Sixth Sense,1999,4.0,4.0,M. Night Shyamalan,"['Thriller', 'Mystery', 'Horror', 'Drama']",2022-07
+2022-07-22,The Hunt,2012,4.5,4.3,Thomas Vinterberg,['Drama'],2022-07
+2022-07-21,Beauty and the Beast,2017,3.0,3.0,Bill Condon,"['Romance', 'Fantasy', 'Family']",2022-07
+2022-07-17,Titane,2021,3.5,3.6,Julia Ducournau,"['Thriller', 'Horror', 'Drama']",2022-07
+2022-05-19,Incendies,2010,4.0,4.4,Denis Villeneuve,"['Mystery', 'War', 'Drama']",2022-05
+2022-05-17,12 Years a Slave,2013,3.5,4.1,Steve McQueen,"['History', 'Drama']",2022-05
+2022-05-15,My Child,2013,4.0,3.7,Can Candan,"['Documentary', 'Drama']",2022-05
+2022-04-25,The Piano,1993,3.0,3.9,Jane Campion,"['Romance', 'Drama']",2022-04
+2022-04-19,Champions,2018,2.5,3.3,Javier Fesser,"['Comedy', 'Drama']",2022-04
+2022-04-12,A Man Called Ove,2015,4.0,3.8,Hannes Holm,"['Drama', 'Comedy']",2022-04
+2022-04-06,On the Basis of Sex,2018,,3.4,Mimi Leder,"['Drama', 'History']",2022-04
+2022-03-05,The Batman,2022,3.5,4.0,Matt Reeves,"['Crime', 'Mystery', 'Thriller']",2022-03
+2022-02-19,The Girl on the Train,2016,3.5,2.9,Tate Taylor,"['Crime', 'Thriller', 'Mystery', 'Drama']",2022-02
+2022-02-19,Mortal World,2018,,3.6,Ali Atay,"['Comedy', 'Action', 'Crime']",2022-02
+2022-02-07,Capernaum,2018,3.5,4.1,Nadine Labaki,['Drama'],2022-02
+2022-01-31,"tick, tick…BOOM!",2021,4.0,3.8,Lin-Manuel Miranda,"['Drama', 'Music']",2022-01
+2022-01-02,Harry Potter 20th Anniversary: Return to Hogwarts,2022,,3.9,Eran Creevy,['Documentary'],2022-01
