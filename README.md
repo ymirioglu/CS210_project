@@ -2,6 +2,7 @@
 
 # Overview
 This project delves into a two-year dataset of movie-watching habits, extracted from the Letterboxd diary. The dataset comprises details such as watch dates, film names, release years, personal ratings, general ratings, directors, genres, and months. The primary objective is to discern patterns and correlations, offering insights into the evolution of movie preferences over time.
+Please download the code files to see all of the code - some of the charts cannot be seen on GitHub-.
 
 # Key Features:
 * Comprehensive data collecting and preprocessing
